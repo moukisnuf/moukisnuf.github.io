@@ -28,6 +28,7 @@ p {
 .nav-link {
     color: deeppink;
 }
+
 .navbar-brand {
     color:deeppink;
 }
@@ -131,6 +132,7 @@ footer {
 a.btn.btn-outline-light.btn-lg {
     border-color: #f8cde600;
 }
+
 
 @media (max-width: 755px) {
     .carousel-indicators {
