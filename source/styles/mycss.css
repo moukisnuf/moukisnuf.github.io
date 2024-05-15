@@ -12,7 +12,7 @@ img.w-100 {
 
 
 p {
-    color: #7a425f;
+    color: rgb(122, 66, 95);
 }
 
 .nav-item1 {
@@ -21,7 +21,7 @@ p {
 }
 
 .btn-group.dropend button:hover {
-    color: #866f7b;
+    color: rgb(134, 111, 123);
 
 }
 
@@ -34,7 +34,7 @@ p {
 }
 
 .navbar-nav .nav-link.active {
-    color: #7a425f;
+    color: rgb(122, 66, 95);
 }
 
 .navbar-brand img {
@@ -60,12 +60,12 @@ a.btn.btn-primary:hover {
 
 .card {
     background: linear-gradient(270deg, #f8cde6 0%, #ffffff 100%);
-    color: #aa1864;
+    color: rgb(170, 24, 100);
 }
 
 .slide-text,
 .footer-text {
-    color: #aa1864;
+    color: rgb(170, 24, 100);
     margin: auto auto;
 }
 
@@ -116,6 +116,8 @@ footer {
     background-color: rgba(243, 243, 243, 0);
     border-color: rgba(255, 255, 255, 0);
     color: rgb(250, 53, 151);
+    font-weight: 500;
+    padding-top: 7px;
 }
 
 
