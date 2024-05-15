@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Montserrat, serif;
     background: linear-gradient(90deg, #f8cde6 0%, #ffffff 100%);
+    font-weight: 500;
 }
 
 p {
@@ -44,7 +47,9 @@ a.btn.btn-primary:hover {
 
 .sidebar {
     color: hotpink;
-    background: linear-gradient(270deg, #f8cde6 0%, #ffffff 100%);
+    background: white;
+    border-radius: 13px;
+    padding: 18px;
 }
 
 .card {
