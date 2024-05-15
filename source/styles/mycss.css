@@ -6,8 +6,13 @@ body {
     font-weight: 500;
 }
 
+img.w-100 {
+    border-radius: 40px;
+}
+
+
 p {
-    color: rgb(216, 61, 138);
+    color: #7a425f;
 }
 
 .nav-item1 {
@@ -28,7 +33,7 @@ p {
 }
 
 .navbar-nav .nav-link.active {
-    color:rgb(255, 149, 205);
+    color: #7a425f;
 }
 
 .navbar-brand img {
@@ -54,12 +59,12 @@ a.btn.btn-primary:hover {
 
 .card {
     background: linear-gradient(270deg, #f8cde6 0%, #ffffff 100%);
-    color: rgb(250, 53, 151);
+    color: #aa1864;
 }
 
 .slide-text,
 .footer-text {
-    color: rgb(250, 53, 151);
+    color: #aa1864;
     margin: auto auto;
 }
 
